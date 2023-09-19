@@ -1,4 +1,4 @@
-# translate_terminal_linux
+# Translate terminal linux
 
 ## Installation
 
