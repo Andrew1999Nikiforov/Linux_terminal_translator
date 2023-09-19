@@ -1,5 +1,7 @@
 # Translate terminal linux
 
+A script that translates text from English into Russian in the terminal
+
 ## Installation
 
 To install the script on Linux, write in the console
